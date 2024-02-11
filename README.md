@@ -1,6 +1,6 @@
-# Me conocen como @Annoder, pero llámame "tu desarrollador de confianza".
+# Todo es un algoritmo
 
-## Habilidades
+## Aquí encontrarás:
 
 - **Lenguajes de Programación:** Python, Bash
 - **Sistemas Operativos:** Linux (especialmente Kali Linux), Windows
