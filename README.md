@@ -20,26 +20,13 @@
 <br>
 
 ### 🛡️ Ciberseguridad
-- Penetration Testing: Identificando vulnerabilidades para fortalecer defensas
-- Ethical Hacking: Utilizando el poder del conocimiento para mejorar el mundo
+- __`Pentesting`__: Identificando vulnerabilidades para fortalecer defensas
+- __`Ethical Hacking`__: Utilizando el poder del conocimiento para mejorar el mundo
 
 <br>
 
 ### ✎ Interfaces Gráficas y Diseño
-- PyQt6: Creando experiencias de usuario intuitivas y atractivas poniendo enfasis siempre en las sensaciones que transmiten las animaciones y paletas cromáticas<br>
-
-<br>
-
-### ⛓ Automatización
-- Transformando tareas repetitivas en procesos eficientes con python<br>
-
-<br>
-
-### ★ Proyectos Destacados<br>
-Proyecto	Descripción	Tecnologías
-🔐 CryptoGuard	Sistema de encriptación avanzado para comunicaciones seguras	Python, Cryptography
-🤖 AutoTask Master	Suite de herramientas para automatización de tareas diarias	Bash, Python
-🕵️ NetSentry	Plataforma de monitoreo de red con detección de intrusiones	Python, PyQt6, Scapy
+- __`PyQt6`__: Creando experiencias de usuario intuitivas y atractivas poniendo enfasis siempre en las sensaciones que transmiten las animaciones y paletas cromáticas<br>
 
 <br>
 
@@ -62,18 +49,18 @@ def solve_problem(challenge):
 <br>
 
 ## 🌐 Ecosistema Tecnológico
-Sistemas Operativos: Linux (Kali 🐉, Ubuntu 🟠), Windows 🪟<br>
-Herramientas: Git, Docker, Wireshark, Metasploit<br>
-Lenguajes: Python, Bash, SQL, HTML/CSS, JavaScript<br>
+- __Sistemas Operativos__: Linux (Kali, Ubuntu), Windows<br>
+- __Herramientas__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, etc.<br>
+- __Lenguajes__: Python, Bash, SQL, HTML/CSS, JavaScript<br>
+- __Editores__: VSCode, Nvim, Nano, Atom, Sublime 
 
 <br>
 
 ## 🔗 Colaboración y Contacto
 ¿Tienes una idea revolucionaria o un desafío técnico intrigante? ¡Hablemos! Estoy siempre abierto a colaboraciones en proyectos innovadores.<br>
 
-- **✉** Email: tu@email.com
-- **in** LinkedIn: Tu Nombre
-- **@** Twitter: @tuhandle
+Email:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
+
 
 ---
 
@@ -81,17 +68,17 @@ Lenguajes: Python, Bash, SQL, HTML/CSS, JavaScript<br>
 
 <h2 align="center">MENTALIDAD DE APRENDIZ</h1>
 <p align="center">
-  "El verdadero hacker es un eterno aprendiz, siempre buscando expandir sus conocimientos y habilidades." - *Anonymous*<br>
-  "El conocimiento debería ser libre." - *Anonymous*<br>
-  "No confíes en los sistemas, aprende cómo funcionan." - *Edward Snowden*<br>
-  "Hackear es comprender, no destruir." *(Inspirado en la cultura hacker)*<br>
+  "El verdadero hacker es un eterno aprendiz, siempre buscando expandir sus conocimientos y habilidades." - <i>Anonymous</i><br>
+  "El conocimiento debería ser libre." - <i>Anonymous</i><br>
+  "No confíes en los sistemas, aprende cómo funcionan." - <i>Edward Snowden</i><br>
+  "Hackear es comprender, no destruir." <i>(Inspirado en la cultura hacker)</i><br>
 </p>
 <br><br>
 
 <h3 align="center">⚠️ Advertencia de Seguridad:</h3><br>
 
 ```bash
-rm -rf /problemas && mkdir /soluciones && chmod 777 /innovacion || sudo rm -rf /*
+rm -rf /problemas && mkdir /soluciones && chmod 777 /innovacion
 ```
 <br>
 <h4 align="center">(Código seguro para ejecutar en la vida)<br></h4><br>
