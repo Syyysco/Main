@@ -56,11 +56,17 @@ def solve_problem(challenge):
 
 <br>
 
+## 💠 Últimos proyectos
+Échale un vistazo a mis proyectos más recientes!<br>
+
+- <a href="https://github.com/Syyysco/Zeven"><b>Zeven</b></a>: Herramienta de línea de comandos hecha en Python
+
+<br>
+
 ## 🔗 Colaboración y Contacto
 ¿Tienes una idea revolucionaria o un desafío técnico intrigante? ¡Hablemos! Estoy siempre abierto a colaboraciones en proyectos innovadores.<br>
 
 Email:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
-
 
 ---
 
