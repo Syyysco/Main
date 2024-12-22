@@ -15,7 +15,7 @@
 ## Áreas de Expertise
 ### 💻 Desarrollo de Software
 - __`Python`__: Desde scripts de automatización hasta aplicaciones gráficas y herramientas de pentesting
-- __`Bash`__: Conociendo cada rincon que linux esconde
+- __`Bash`__: Conociendo cada rincón que linux esconde
 
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 
 ### ✎ Interfaces Gráficas y Diseño
-- __`PyQt6`__: Creando experiencias de usuario intuitivas y atractivas poniendo enfasis siempre en las sensaciones que transmiten las animaciones y paletas cromáticas<br>
+- __`PyQt6`__: Creando experiencias de usuario intuitivas y atractivas poniendo énfasis siempre en las sensaciones que transmiten las animaciones y paletas cromáticas<br>
 
 <br>
 
