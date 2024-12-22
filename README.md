@@ -1,38 +1,38 @@
 <p align="center">
-  <a href="src/langs/en/README.md">English</a>  •  <b>Español</b>  •  <a href="src/langs/fr/README.md">Français</a>  •  <a href="src/langs/de/README.md">Deutsch</a>
+  <b>English</b>  •  <a href="LEEME.md">Español</a>  •  <a href="LISMOI.md">Français</a>  •  <a href="LIESMICH.md">Deutsch</a>
 </p>
 <br>
 
-<h1 align="center">Donde hay un problema, hay una solución por programar.</h1>
+<h1 align="center">Where there’s a problem, there’s a solution waiting to be coded.</h1>
 
 <p align="center">
-  Aprender, escribir, romper, mejorar. Porque la autodidaxia es el arte de enseñarte a ti mismo y el conocimiento pertenece a los curiosos.<br><br>
+  Learn, write, break, improve. Because self-learning is the art of teaching yourself, and knowledge belongs to the curious.<br><br>
   <img src="src/profile-banner.png" width="350" alt="Sysco - Pentester and software developer"><br><br><br>
-  <a href="https://syyysco.github.io">Visita mi página web</a>
+  <a href="https://syyysco.github.io">Visit my website</a>
   
 </p><br>
 
-## Áreas de Expertise
-### 💻 Desarrollo de Software
-- __`Python`__: Desde scripts de automatización hasta aplicaciones gráficas y herramientas de pentesting
-- __`Bash`__: Conociendo cada rincón que linux esconde
+## Areas of Expertise
+### 💻 Software Development
+- __`Python`__: From automation scripts to graphical applications and pentesting tools
+- __`Bash`__: Exploring every corner Linux hides
 
 <br>
 
-### 🛡️ Ciberseguridad
-- __`Pentesting`__: Identificando vulnerabilidades para fortalecer defensas
-- __`Ethical Hacking`__: Utilizando el poder del conocimiento para mejorar el mundo
+### 🛡️ Cibersecurity
+- __`Pentesting`__: Identifying vulnerabilities to strengthen defenses
+- __`Ethical Hacking`__: Using the power of knowledge to improve the world
 
 <br>
 
-### ✎ Interfaces Gráficas y Diseño
-- __`PyQt6`__: Creando experiencias de usuario intuitivas y atractivas poniendo énfasis siempre en las sensaciones que transmiten las animaciones y paletas cromáticas<br>
+### ✎ Graphical Interfaces and Design
+- __`PyQt6`__: Creating intuitive and engaging user experiences, always emphasizing the feelings conveyed by animations and color palettes<br>
 
 <br>
 
 ---
 
-## 💡 Filosofía de Desarrollo
+## 💡 Development Philosophy
 ```python
 def solve_problem(challenge):
     while not solved(challenge):
@@ -49,42 +49,43 @@ def solve_problem(challenge):
 <br>
 
 ## 🌐 Ecosistema Tecnológico
-- __Sistemas Operativos__: Linux (Kali, Ubuntu), Windows<br>
-- __Herramientas__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, etc.<br>
-- __Lenguajes__: Python, Bash, SQL, HTML/CSS, JavaScript<br>
-- __Editores__: VSCode, Nvim, Nano, Atom, Sublime 
+- __Operating Systems__: Linux (Kali, Ubuntu), Windows<br>
+- __Tools__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, etc.<br>
+- __Languages__: Python, Bash, SQL, HTML/CSS, JavaScript<br>
+- __Editors__: VSCode, Nvim, Nano, Atom, Sublime 
 
 <br>
 
-## 💠 Últimos proyectos
-Échale un vistazo a mis proyectos más recientes!<br>
+## 💠 Recent Projects
+Take a look at my latest projects!<br>
 
-- <a href="https://github.com/Syyysco/Zeven"><b>Zeven</b></a>: Herramienta de línea de comandos hecha en Python
+- <a href="https://github.com/Syyysco/Zeven"><b>Zeven</b></a>: Command-line tool built in Python
 
 <br>
 
-## 🔗 Colaboración y Contacto
-¿Tienes una idea revolucionaria o un desafío técnico intrigante? ¡Hablemos! Estoy siempre abierto a colaboraciones en proyectos innovadores.<br>
+## 🔗 Collaboration and Contact
+Do you have a revolutionary idea or an intriguing technical challenge? Let’s talk! I’m always open to collaborating on innovative projects.<br>
 
-Email:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
+E-mail:  <a href="mailto:syscodev@proton.me">syscodev@proton.me</a>
 
 ---
 
 <br><br><br>
 
-<h2 align="center">MENTALIDAD DE APRENDIZ</h1>
+<h2 align="center">LEARNER'S MINDSET</h1>
 <p align="center">
-  "El verdadero hacker es un eterno aprendiz, siempre buscando expandir sus conocimientos y habilidades." - <i>Anonymous</i><br>
-  "El conocimiento debería ser libre." - <i>Anonymous</i><br>
-  "No confíes en los sistemas, aprende cómo funcionan." - <i>Edward Snowden</i><br>
-  "Hackear es comprender, no destruir." <i>(Inspirado en la cultura hacker)</i><br>
+  "The true hacker is an eternal learner, always seeking to expand their knowledge and skills." - <i>Anonymous</i><br>
+  "Knowledge should be free." - <i>Anonymous</i><br>
+  "Don’t trust systems, learn how they work." - <i>Edward Snowden</i><br>
+  "Hacking is understanding, not destroying." <i>(Inspired by hacker culture)</i><br>
 </p>
 <br><br>
 
-<h3 align="center">⚠️ Advertencia de Seguridad:</h3><br>
+<h3 align="center">⚠️ Security Warning:</h3><br>
 
 ```bash
-rm -rf /problemas && mkdir /soluciones && chmod 777 /innovacion
+rm -rf /problems && mkdir /solutions && chmod 777 /innovation
 ```
 <br>
-<h4 align="center">(Código seguro para ejecutar en la vida)<br></h4><br>
+
+<h4 align="center">(Safe code to execute in life)<br></h4><br>
