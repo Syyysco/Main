@@ -48,7 +48,7 @@ def solve_problem(challenge):
 
 <br>
 
-## 🌐 Ecosistema Tecnológico
+## 🌐 Technological Ecosystem
 - __Operating Systems__: Linux (Kali, Ubuntu), Windows<br>
 - __Tools__: Docker, Wireshark, Metasploit, Burp Suite, Nmap, etc.<br>
 - __Languages__: Python, Bash, SQL, HTML/CSS, JavaScript<br>
